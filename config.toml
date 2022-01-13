@@ -1,13 +1,13 @@
 baseURL = "https://ptusek.github.io/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Ptusek"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    description = "Galerie ptuščích fotek"
     githubUsername = "#"
     accent = "grey"
     showBorder = true
