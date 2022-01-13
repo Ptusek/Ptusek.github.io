@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://ptusek.github.io/"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
@@ -9,7 +9,7 @@ googleAnalytics = ""
     author = "Calin Tataru"
     description = "Personal blog theme powered by Hugo"
     githubUsername = "#"
-    accent = "red"
+    accent = "grey"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
