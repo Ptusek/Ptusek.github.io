@@ -1,4 +1,4 @@
-baseURL = "http://ptusek.github.io/"
+baseURL = "https://ptusek.github.io/"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
