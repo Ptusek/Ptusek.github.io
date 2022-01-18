@@ -1,5 +1,4 @@
 # ptušek
-## suer fotky
 {{< gallery match="images/*"
     sortOrder="asc" 
     rowHeight="150"
