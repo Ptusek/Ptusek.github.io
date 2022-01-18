@@ -10,4 +10,5 @@
     previewType="blur" 
     embedPreview="true"
     thumbnailHoverEffect="enlarge"
+    lastRow="justify"
 >}}

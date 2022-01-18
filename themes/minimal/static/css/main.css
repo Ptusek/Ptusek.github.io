@@ -14,8 +14,6 @@ main {
     padding: 25px;
     flex: 1 0 auto;
     max-width: 750px;
-    width: 100%;
-    text-align: center;
 }
 
 img {
@@ -42,7 +40,8 @@ img {
 
 .content {
     padding-top: 20px;
-}
+    text-align: center;
+    width: 100%;
 
 /* Profile picture */
 
