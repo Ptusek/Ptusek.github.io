@@ -1,0 +1,32 @@
+baseURL = "https://ptusek.github.io/"
+languageCode = "en-us"
+title = "Ptusek"
+theme = ["minimal", "hugo-shortcode-gallery"]
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+
+[params]
+    author = "Calin Tataru"
+    description = "Galerie ptuščích fotek"
+    githubUsername = "#"
+    accent = "grey"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "https://kavkaterie.cz"
+    name = "Blog"
+    weight = 1
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "https://instagram.com/pavli_novotna"
+    name = "fab fa-instagram"
+    weight = 1
