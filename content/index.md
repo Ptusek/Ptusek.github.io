@@ -1,4 +1,5 @@
-# ptušek
+# Kavkaterie
+## Ptáci kolem nás
 {{< gallery match="images/*"
     sortOrder="asc" 
     rowHeight="150"
