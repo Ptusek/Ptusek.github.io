@@ -1,4 +1,4 @@
-# Kavkaterie
+# KAVKATERIE
 ## Ptáci kolem nás
 {{< gallery match="images/*"
     sortOrder="asc" 
@@ -6,7 +6,7 @@
     margins="10"
     border="5"
     thumbnailResizeOptions="600x600 q90 Lanczos"
-    showExif="true"
+    showExif="false"
     previewType="blur" 
     embedPreview="true"
     thumbnailHoverEffect="enlarge"
