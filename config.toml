@@ -1,4 +1,4 @@
-baseURL = "https://ptusek.github.io/"
+baseURL = "https://galerie.kavkaterie.cz/"
 languageCode = "en-us"
 title = "Ptusek"
 theme = ["minimal", "hugo-shortcode-gallery"]
@@ -9,17 +9,18 @@ googleAnalytics = ""
     author = "Pavla Novotná"
     description = "Kavkaterie – galerie"
     githubUsername = "#"
-    accent = "#d0d0d0"
-    showBorder = true
+    accent = "grey"
+    showBorder = false
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Montserrat" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    css = ["css/custom.css"]
 
 [[menu.main]]
     url = "https://kavkaterie.cz"
-    name = "Blog"
+    name = "BLOG"
     weight = 1
 
 # Social icons to be shown on the right-hand side of the navigation bar.
