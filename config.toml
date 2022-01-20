@@ -6,7 +6,7 @@ disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "Pavla Novotná"
     description = "Galerie ptuščích fotek"
     githubUsername = "#"
     accent = "#d0d0d0"
