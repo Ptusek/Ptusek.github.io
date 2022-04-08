@@ -1,4 +1,4 @@
-# KAVKATERIE
+# Kavkaterie
 {{< gallery match="images/*"
     sortOrder="asc" 
     rowHeight="150"
