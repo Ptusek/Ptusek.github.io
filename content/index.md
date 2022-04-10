@@ -1,4 +1,5 @@
-# Kavkaterie
+
+![Kavkaterie](blog_logo.png)
 {{< gallery match="images/*"
     sortOrder="asc" 
     rowHeight="150"
