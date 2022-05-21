@@ -28,6 +28,6 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "https://instagram.com/pavli_novotna"
+    url = "https://instagram.com/pavli_birds"
     name = "fab fa-instagram"
     weight = 1
