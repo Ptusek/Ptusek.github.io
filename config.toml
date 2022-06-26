@@ -1,6 +1,6 @@
 baseURL = "https://galerie.kavkaterie.cz/"
 languageCode = "en-us"
-title = "Ptusek"
+title = "Galerie"
 theme = ["minimal", "hugo-shortcode-gallery"]
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
